@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formatting.js",
+  "scripts": {
+    "dev:Mac": "export \"NODE_ENV=development\" && node formatting.js",
+    "dev:Win": "set \"NODE_ENV=development\" && node formatting.js"
+  },
+  "dependencies": {}
+}
